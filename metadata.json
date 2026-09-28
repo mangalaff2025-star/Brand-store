@@ -1,0 +1,6 @@
+{
+  "name": "Premium Bouquets & Flower Delivery | [BRAND NAME]",
+  "description": "Shop beautifully handcrafted bouquets made with fresh flowers for birthdays, anniversaries, celebrations and every special moment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
